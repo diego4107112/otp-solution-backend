@@ -1,0 +1,6 @@
+@OTPViewerRecovered_HostAddress = http://localhost:5216
+
+GET {{OTPViewerRecovered_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
