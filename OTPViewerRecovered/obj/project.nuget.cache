@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEHT3Mlaq6N9fav07b0sS1DrMLUZxJpRSruh7Gh8zr0BQzvC8zIYMcjA0/HgrOSfbH705TQrLTCX1DOgzgUrwg==",
+  "dgSpecHash": "uaDKinr0UNqlxkBKJpWEx+Rq3mk9NslIzHl/D/69PeKk8qI7BOia93SclVDlfZ9W6Q6KlSoIxyJqnEjno2EpJQ==",
   "success": true,
-  "projectFilePath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/OTPViewerRecovered.csproj",
+  "projectFilePath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/OTPViewerRecovered.csproj",
   "expectedPackageFiles": [
     "/home/dev-2nh/.nuget/packages/microsoft.aspnetcore.openapi/8.0.17/microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "/home/dev-2nh/.nuget/packages/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.9.0.6.nupkg.sha512",

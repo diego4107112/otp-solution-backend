@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTPViewerRecovered")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f738425901f12e16f37c29653d319cdd8e5d92f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTPViewerRecovered")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTPViewerRecovered")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

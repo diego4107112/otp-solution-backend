@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/OTPViewerRecovered.csproj": {}
+    "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/OTPViewerRecovered.csproj": {}
   },
   "projects": {
-    "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/OTPViewerRecovered.csproj": {
+    "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/OTPViewerRecovered.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/OTPViewerRecovered.csproj",
+        "projectUniqueName": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/OTPViewerRecovered.csproj",
         "projectName": "OTPViewerRecovered",
-        "projectPath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/OTPViewerRecovered.csproj",
+        "projectPath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/OTPViewerRecovered.csproj",
         "packagesPath": "/home/dev-2nh/.nuget/packages/",
-        "outputPath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/OTPViewerRecovered/obj/",
+        "outputPath": "/home/dev-2nh/Documents/Novahold/Proyectos/Core Bancario/otp-solution-backend/OTPViewerRecovered/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dev-2nh/.nuget/NuGet/NuGet.Config"
