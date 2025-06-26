@@ -4,7 +4,7 @@ using OTPViewerRecovered.Models;
 
 namespace OTPViewerRecovered.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/otp")]
     [ApiController]
     public class OtpController : ControllerBase
     {
